@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEtoXamlBindingTextBox", "HelloEtoXamlBindingTextBox\HelloEtoXamlBindingTextBox\HelloEtoXamlBindingTextBox.csproj", "{A599206D-1D28-4A29-A018-25D50B3DC507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEtoXamlBindingTextBox.Desktop", "HelloEtoXamlBindingTextBox\HelloEtoXamlBindingTextBox.Desktop\HelloEtoXamlBindingTextBox.Desktop.csproj", "{6F86EA1A-D9DB-4AB3-8D0C-B84966A7FF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A599206D-1D28-4A29-A018-25D50B3DC507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A599206D-1D28-4A29-A018-25D50B3DC507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A599206D-1D28-4A29-A018-25D50B3DC507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A599206D-1D28-4A29-A018-25D50B3DC507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F86EA1A-D9DB-4AB3-8D0C-B84966A7FF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F86EA1A-D9DB-4AB3-8D0C-B84966A7FF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F86EA1A-D9DB-4AB3-8D0C-B84966A7FF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F86EA1A-D9DB-4AB3-8D0C-B84966A7FF70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

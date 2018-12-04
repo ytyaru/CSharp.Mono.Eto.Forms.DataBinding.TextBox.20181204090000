@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6F86EA1A-D9DB-4AB3-8D0C-B84966A7FF70}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloEtoXamlBindingTextBox.Desktop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloEtoXamlBindingTextBox/HelloEtoXamlBindingTextBox/MainForm.xeto">
+    <Files>
+      <File FileName="HelloEtoXamlBindingTextBox/HelloEtoXamlBindingTextBox/MainForm.xeto" Line="4" Column="55" />
+      <File FileName="HelloEtoXamlBindingTextBox/HelloEtoXamlBindingTextBox/MainForm.xeto.cs" Line="16" Column="10" />
+      <File FileName="HelloEtoXamlBindingTextBox/HelloEtoXamlBindingTextBox/UrlModel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
